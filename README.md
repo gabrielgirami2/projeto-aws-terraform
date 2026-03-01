@@ -27,3 +27,7 @@ terraform apply
 
 # 4. (Ao finalizar) Destrói a infraestrutura para evitar custos
 terraform destroy
+
+<img width="563" height="83" alt="Captura de tela 2026-03-01 023133" src="https://github.com/user-attachments/assets/c73e2198-5542-4e2b-a09e-814a80b6753a" />
+<img width="495" height="121" alt="Captura de tela 2026-03-01 023201" src="https://github.com/user-attachments/assets/41df82e3-1f08-4177-8177-39bb2c71b0cd" />
+
