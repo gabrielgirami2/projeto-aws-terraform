@@ -1,0 +1,9 @@
+# Arquivos de estado do Terraform (NUNCA suba isso!)
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Credenciais (apenas por precaução)
+*.tfvars
+*.secret
