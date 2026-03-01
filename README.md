@@ -29,5 +29,5 @@ terraform apply
 terraform destroy
 
 <img width="563" height="83" alt="Captura de tela 2026-03-01 023133" src="assets/apply complete.png" />
-<img width="495" height="121" alt="Captura de tela 2026-03-01 023201" src=assets/destroy complete.png" />
+<img width="495" height="121" alt="Captura de tela 2026-03-01 023201" src="assets/destroy complete.png" />
 
