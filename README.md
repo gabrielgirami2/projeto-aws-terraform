@@ -27,8 +27,10 @@ terraform apply
 
 # 4. (Ao finalizar) Destrói a infraestrutura para evitar custos
 terraform destroy
-
+```
 
 ![Apply](assets/apply_complete.png)
 ![Destroy](assets/destroy_complete.png)
+
+
 
